@@ -1,10 +1,10 @@
 <div align="center">
-  <br />
+  <img src=1'https://i.postimg.cc/kG3T9gZc/Screenshot-2024-08-18-090745.png">
    
-      <img src="https://i.postimg.cc/37PnQw8n/Image-from.png" alt="Project Banner">
+     
    
-  <br />
-
+  
+</div>
   <div>
     <img src="https://img.shields.io/badge/-React_JS-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" alt="react.js" />
     <img src="https://img.shields.io/badge/-Three_JS-black?style=for-the-badge&logoColor=white&logo=threedotjs&color=000000" alt="three.js" />
